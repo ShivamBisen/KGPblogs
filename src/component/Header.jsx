@@ -13,7 +13,7 @@ const Header = () => {
           <img src={Logo} alt="Navbar Logo" />
         </Link>
         <ul className="nav_menu">
-          <li><Link to="/profile">Shivam</Link></li>
+          <li><Link to="/profile/sdfsdf">Shivam</Link></li>
           <li><Link to="/CreatPost">Creat Post</Link></li>
           <li><Link to="/Author">Authors</Link></li>
           <li><Link to="/LogOut">LogOut</Link></li>
